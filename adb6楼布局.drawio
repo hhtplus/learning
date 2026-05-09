@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="Gs3337ZOrND1S_cQ-lxm">
+    <mxGraphModel dx="1413" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="60" width="930" x="50" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="80" width="930" x="60" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="70" width="930" x="60" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="100" width="930" x="60" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" value="604（陈阳）" vertex="1">
+          <mxGeometry height="100" width="110" x="1010" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="走廊" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="348" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="走廊" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="走廊" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="走廊" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="蔡志勤（APP）" vertex="1">
+          <mxGeometry height="35" width="120" x="550" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="电梯侧门口" vertex="1">
+          <mxGeometry height="60" width="110" x="1010" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="林华福(APP)" vertex="1">
+          <mxGeometry height="40" width="100" x="380" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="罗建华(Server)）" vertex="1">
+          <mxGeometry height="50" width="120" x="60" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="雷威龙（Server）" vertex="1">
+          <mxGeometry height="50" width="100" x="180" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="韩海涛（Server）" vertex="1">
+          <mxGeometry height="50" width="100" x="180" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="黄礼栋（Server）" vertex="1">
+          <mxGeometry height="50" width="100" x="380" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="吴玉众（APP）" vertex="1">
+          <mxGeometry height="40" width="100" x="380" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="王文卿（Common）" vertex="1">
+          <mxGeometry height="40" width="120" x="870" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="刘志锋（Common）" vertex="1">
+          <mxGeometry height="40" width="120" x="870" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="周柳平（Common）" vertex="1">
+          <mxGeometry height="40" width="120" x="750" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="陈湘林（Common）" vertex="1">
+          <mxGeometry height="40" width="120" x="750" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="mXIQxqXCKh3jPoUU9TNO-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="叶迎哲（Server）" vertex="1">
+          <mxGeometry height="50" width="100" x="280" y="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
